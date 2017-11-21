@@ -4,7 +4,8 @@
     "start": "roadhog server",
     "build": "roadhog build",
     "lint": "eslint --ext .js src test",
-    "precommit": "npm run lint"
+    "precommit": "npm run lint",
+    "deploy": "gh-pages -d dist"
   },
   "engines": {
     "install-node": "6.11.1"
