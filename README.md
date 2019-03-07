@@ -1,6 +1,6 @@
 # dva Todomvc clone
 
-[Live demo](http://js-ninja.cn/dva-todomvc/)
+[Live demo](https://maczyt.github.io/dva-todomvc/)
 
 ## Building
 
